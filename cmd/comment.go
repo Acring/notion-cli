@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/4ier/notion-cli/internal/client"
-	"github.com/4ier/notion-cli/internal/render"
-	"github.com/4ier/notion-cli/internal/util"
+	"github.com/Acring/notion-cli/internal/client"
+	"github.com/Acring/notion-cli/internal/render"
+	"github.com/Acring/notion-cli/internal/util"
 	"github.com/spf13/cobra"
 )
 

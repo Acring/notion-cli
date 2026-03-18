@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/4ier/notion-cli/cmd"
+	"github.com/Acring/notion-cli/cmd"
 )
 
 func main() {

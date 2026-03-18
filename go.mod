@@ -1,4 +1,4 @@
-module github.com/4ier/notion-cli
+module github.com/Acring/notion-cli
 
 go 1.24.0
 

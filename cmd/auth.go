@@ -7,9 +7,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/4ier/notion-cli/internal/client"
-	"github.com/4ier/notion-cli/internal/config"
-	"github.com/4ier/notion-cli/internal/render"
+	"github.com/Acring/notion-cli/internal/client"
+	"github.com/Acring/notion-cli/internal/config"
+	"github.com/Acring/notion-cli/internal/render"
 	"github.com/spf13/cobra"
 )
 
